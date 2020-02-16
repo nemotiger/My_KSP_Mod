@@ -1,0 +1,1 @@
+RationalResources/CRP/zSCANsat.cfg should be removed to avoid conflicts.
